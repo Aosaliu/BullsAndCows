@@ -1,6 +1,6 @@
 # BullsAndCows
 
-Bulls and Cows command line game for guessing a number.
+Bulls and Cows is essentially a Guessing Game. 
 
 ## How to Play
 1. The computer will come up with a 4-digit hidden number.
